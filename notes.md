@@ -39,3 +39,25 @@ Lösung von Teilproblemen peicher
 4. Konstruktion einer opt. Lösung
 
 
+# Greedy
+
+## Anwednungsfälle
+
+- Optimierungsprobleme
+- Kürzere Laufzeit als DP
+- Teilprobleme lokal lösen -> globale opt. Lösung
+- erst Entscheiden, dann lösen
+- Annähern einer Lösung für NP-harte Probleme
+
+
+# Wann ist die Lösung opt.?
+
+- Greedy
+    - Teilproblem-Eigenschaft erfüllt
+    - Greedy-Eigenschaft erfüllt
+    - Lösung wird hier approximiert
+
+- DP
+    - Teilproblem-Eigenschaft erfüllt
+
+DP dauert mesit länger als DP
